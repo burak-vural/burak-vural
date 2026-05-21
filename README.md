@@ -32,7 +32,6 @@ class BurakVural:
         self.location    = "Turkey 🇹🇷"
         self.experience  = "6+ years"
         self.company     = "Arc.Dev"
-        self.education   = "Istanbul University — BTech, MIS (2024–2027)"
 
     @property
     def skills(self):
@@ -172,15 +171,6 @@ class BurakVural:
 
 </div>
 
----
-
-## 🎤 Speaking Engagements
-
-- 🐾 **AI in the Future of Veterinary Medicine** — Mehmet Akif Ersoy Üniversitesi, 2025 *(Speaker)*
-- 🔐 **Introduction to Cybersecurity & Web Security Training** — Group session (10 students)
-- 🌐 **Session Access Bugs Fixed** — Twitter, 2021
-
----
 
 ## 📫 Get In Touch
 
