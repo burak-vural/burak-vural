@@ -150,26 +150,6 @@ class BurakVural:
 
 </div>
 
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer |
-|:---|:---|
-| Cisco CCNA · IoT · CyberSecurity | Cisco Network Academy |
-| CompTIA Security+ (SY0-601) | CompTIA / Cybrary Academy |
-| CompTIA A+ (220-1101 & 220-1102) | CompTIA / Cybrary Academy |
-| BJTA – Blue Team Analyst | CyberDefense |
-| Ethical Hacking – EC-Council | CodeRed Academy |
-| Network Defense Essentials (NDE) | CodeRed Academy |
-| Cybersecurity Essentials (LFC108) | The Linux Foundation |
-| CS50's Introduction to Cybersecurity | Harvard University |
-| ITIL 4 Foundation | Cybrary Academy |
-| Network & IT Excellence | Turkish Navy Force — 2022 |
-
-</div>
 
 
 ## 📫 Get In Touch
