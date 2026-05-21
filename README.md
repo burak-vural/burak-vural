@@ -158,7 +158,6 @@ class BurakVural:
 
 | | |
 |:---:|:---|
-| 📧 | info.burakvural@gmail.com |
 | 🔗 | [linkedin.com/in/burak-vural](https://linkedin.com/in/burak-vural) |
 | 🌐 | [burakvural.dev](https://burakvural.dev) |
 
